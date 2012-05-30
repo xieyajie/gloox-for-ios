@@ -1130,6 +1130,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GlooxTest/GlooxTest-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
 				HEADER_SEARCH_PATHS = ./Utils/OpenSSL/include;
 				INFOPLIST_FILE = "GlooxTest/GlooxTest-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
@@ -1150,6 +1151,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GlooxTest/GlooxTest-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
 				HEADER_SEARCH_PATHS = ./Utils/OpenSSL/include;
 				INFOPLIST_FILE = "GlooxTest/GlooxTest-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
