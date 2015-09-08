@@ -1,0 +1,1 @@
+port gloox for iOS, gloox is a xmpp library, write in pure C++
